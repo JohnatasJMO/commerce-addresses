@@ -1,0 +1,20 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Darién"
+],
+    "subdivisions": {
+        "Chepigana": {
+            "subdivisions": "Chepigana",
+            "has_children": true,
+        },
+
+        "Pinogana": {
+            "subdivisions": "Pinogana",
+            "has_children": true,
+        },
+
+    }
+}

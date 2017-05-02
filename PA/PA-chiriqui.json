@@ -7,69 +7,69 @@
 ],
     "subdivisions": {
         "Alanje": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Alanje",
+            "has_children": true,
         },
 
         "Barú": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Barú",
+            "has_children": true,
         },
 
         "Boquerón": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Boquerón",
+            "has_children": true,
         },
 
         "Boquete": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Boquete",
+            "has_children": true,
         },
 
         "Bugaba": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Bugaba",
+            "has_children": true,
         },
 
         "David": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "David",
+            "has_children": true,
         },
 
         "Dolega": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Dolega",
+            "has_children": true,
         },
 
         "Gualaca": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Gualaca",
+            "has_children": true,
         },
 
         "Remedios": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Remedios",
+            "has_children": true,
         },
 
         "Renacimiento": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Renacimiento",
+            "has_children": true,
         },
 
         "San Félix": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "San Félix",
+            "has_children": true,
         },
 
         "San Lorenzo": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "San Lorenzo",
+            "has_children": true,
         },
 
         "Tolé": {
-            "local_code": "Chiriquí",
-            "has_children": "true",
+            "subdivisions": "Tolé",
+            "has_children": true,
         },
 
-}
+    }
 }

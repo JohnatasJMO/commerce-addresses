@@ -3,31 +3,31 @@
     "locale": "es",
     "parents": [
         "PA",
-        "Colón"
+        "Panamá Oeste"
 ],
     "subdivisions": {
-        "Chagres": {
-            "subdivisions": "Chagres",
+        "Arraiján": {
+            "subdivisions": "Arraiján",
             "has_children": true,
         },
 
-        "Colón": {
-            "subdivisions": "Colón",
+        "Capira": {
+            "subdivisions": "Capira",
             "has_children": true,
         },
 
-        "Donoso": {
-            "subdivisions": "Donoso",
+        "Chame": {
+            "subdivisions": "Chame",
             "has_children": true,
         },
 
-        "Portobelo": {
-            "subdivisions": "Portobelo",
+        "La Chorrera": {
+            "subdivisions": "La Chorrera",
             "has_children": true,
         },
 
-        "Santa Isabel": {
-            "subdivisions": "Santa Isabel",
+        "San Carlos": {
+            "subdivisions": "San Carlos",
             "has_children": true,
         },
 

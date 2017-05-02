@@ -7,33 +7,33 @@
 ],
     "subdivisions": {
         "Aguadulce": {
-            "local_code": "Coclé",
-            "has_children": "true",
+            "subdivisions": "Aguadulce",
+            "has_children": true,
         },
 
         "Antón": {
-            "local_code": "Coclé",
-            "has_children": "true",
+            "subdivisions": "Antón",
+            "has_children": true,
         },
 
         "La Pintada": {
-            "local_code": "Coclé",
-            "has_children": "true",
+            "subdivisions": "La Pintada",
+            "has_children": true,
         },
 
         "Natá": {
-            "local_code": "Coclé",
-            "has_children": "true",
+            "subdivisions": "Natá",
+            "has_children": true,
         },
 
         "Olá": {
-            "local_code": "Coclé",
-            "has_children": "true",
+            "subdivisions": "Olá",
+            "has_children": true,
         },
 
         "Penonomé": {
-            "local_code": "Coclé",
-            "has_children": "true",
+            "subdivisions": "Penonomé",
+            "has_children": true,
         },
 
     }

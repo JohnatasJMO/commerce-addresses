@@ -1,0 +1,30 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Bocas del Toro"
+],
+    "subdivisions": {
+        "Almirante": {
+            "subdivisions": "Almirante",
+            "has_children": true,
+        },
+
+        "Bocas del Toro": {
+            "subdivisions": "Bocas del Toro",
+            "has_children": true,
+        },
+
+        "Changuinola": {
+            "subdivisions": "Changuinola",
+            "has_children": true,
+        },
+
+        "Chiriquí Grande": {
+            "subdivisions": "Chiriquí Grande",
+            "has_children": true,
+        },
+
+    }
+}

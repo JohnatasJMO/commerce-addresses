@@ -7,63 +7,63 @@
 ],
     "subdivisions": {
         "Atalaya": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Atalaya",
+            "has_children": true,
         },
 
         "Calobre": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Calobre",
+            "has_children": true,
         },
 
         "Cañazas": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Cañazas",
+            "has_children": true,
         },
 
         "La Mesa": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "La Mesa",
+            "has_children": true,
         },
 
         "Las Palmas": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Las Palmas",
+            "has_children": true,
         },
 
         "Mariato": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Mariato",
+            "has_children": true,
         },
 
         "Montijo": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Montijo",
+            "has_children": true,
         },
 
         "Río de Jesús": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Río de Jesús",
+            "has_children": true,
         },
 
         "San Francisco": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "San Francisco",
+            "has_children": true,
         },
 
         "Santa Fe": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Santa Fe",
+            "has_children": true,
         },
 
         "Santiago": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Santiago",
+            "has_children": true,
         },
 
         "Soná": {
-            "local_code": "Veraguas",
-            "has_children": "true",
+            "subdivisions": "Soná",
+            "has_children": true,
         },
 
     }

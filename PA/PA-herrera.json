@@ -7,38 +7,38 @@
 ],
     "subdivisions": {
         "Chitré": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Chitré",
+            "has_children": true,
         },
 
         "Las Minas": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Las Minas",
+            "has_children": true,
         },
 
         "Los Pozos": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Los Pozos",
+            "has_children": true,
         },
 
         "Ocú": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Ocú",
+            "has_children": true,
         },
 
         "Parita": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Parita",
+            "has_children": true,
         },
 
         "Pesé": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Pesé",
+            "has_children": true,
         },
 
         "Santa María": {
-            "local_code": "Herrera",
-            "has_children": "true",
+            "subdivisions": "Santa María",
+            "has_children": true,
         },
 
     }

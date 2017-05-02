@@ -7,33 +7,33 @@
 ],
     "subdivisions": {
         "Balboa": {
-            "local_code": "Panamá",
-            "has_children": "true",
+            "subdivisions": "Balboa",
+            "has_children": true,
         },
 
         "Chepo": {
-            "local_code": "Panamá",
-            "has_children": "true",
+            "subdivisions": "Chepo",
+            "has_children": true,
         },
 
         "Chimán": {
-            "local_code": "Panamá",
-            "has_children": "true",
+            "subdivisions": "Chimán",
+            "has_children": true,
         },
 
         "Panamá": {
-            "local_code": "Panamá",
-            "has_children": "true",
+            "subdivisions": "Panamá",
+            "has_children": true,
         },
 
         "San Miguelito": {
-            "local_code": "Panamá",
-            "has_children": "true",
+            "subdivisions": "San Miguelito",
+            "has_children": true,
         },
 
         "Taboga": {
-            "local_code": "Panamá",
-            "has_children": "true",
+            "subdivisions": "Taboga",
+            "has_children": true,
         },
 
     }
