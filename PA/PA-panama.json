@@ -1,0 +1,40 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Panamá"
+],
+    "subdivisions": {
+        "Balboa": {
+            "local_code": "Panamá",
+            "has_children": "true",
+        },
+
+        "Chepo": {
+            "local_code": "Panamá",
+            "has_children": "true",
+        },
+
+        "Chimán": {
+            "local_code": "Panamá",
+            "has_children": "true",
+        },
+
+        "Panamá": {
+            "local_code": "Panamá",
+            "has_children": "true",
+        },
+
+        "San Miguelito": {
+            "local_code": "Panamá",
+            "has_children": "true",
+        },
+
+        "Taboga": {
+            "local_code": "Panamá",
+            "has_children": "true",
+        },
+
+    }
+}

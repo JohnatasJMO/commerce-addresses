@@ -1,0 +1,19 @@
+"libraries/{$name}": ["type:drupal-library"],
+https://getcomposer.org/doc/05-repositories.md#hosting-your-own
+
+
+
+Province header
+{lb}{br}{tab}"{h1}": "PA",{br}{tab}"{h2}": "es",{br}{tab}"{h3}": [{br}{tab}{tab}"PA",{br}{tab}{tab}"{h8}"{br}],{br}{tab}"{h5}": {lb}{br}
+
+Province body
+{tab}{tab}"{f5}": {lb}
+{tab}{tab}{tab}"{h6}": "{f6}",
+{tab}{tab}{tab}"{h7}": "{f7}",
+{tab}{tab}{rb},
+{br}}
+
+District header
+
+District body
+

@@ -1,0 +1,70 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Veraguas"
+],
+    "subdivisions": {
+        "Atalaya": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Calobre": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Cañazas": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "La Mesa": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Las Palmas": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Mariato": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Montijo": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Río de Jesús": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "San Francisco": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Santa Fe": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Santiago": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+        "Soná": {
+            "local_code": "Veraguas",
+            "has_children": "true",
+        },
+
+    }
+}

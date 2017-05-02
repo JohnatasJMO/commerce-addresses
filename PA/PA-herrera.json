@@ -1,0 +1,45 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Herrera"
+],
+    "subdivisions": {
+        "Chitré": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+        "Las Minas": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+        "Los Pozos": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+        "Ocú": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+        "Parita": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+        "Pesé": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+        "Santa María": {
+            "local_code": "Herrera",
+            "has_children": "true",
+        },
+
+    }
+}

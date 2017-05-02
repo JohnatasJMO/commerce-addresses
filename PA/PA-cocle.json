@@ -1,0 +1,40 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Coclé"
+],
+    "subdivisions": {
+        "Aguadulce": {
+            "local_code": "Coclé",
+            "has_children": "true",
+        },
+
+        "Antón": {
+            "local_code": "Coclé",
+            "has_children": "true",
+        },
+
+        "La Pintada": {
+            "local_code": "Coclé",
+            "has_children": "true",
+        },
+
+        "Natá": {
+            "local_code": "Coclé",
+            "has_children": "true",
+        },
+
+        "Olá": {
+            "local_code": "Coclé",
+            "has_children": "true",
+        },
+
+        "Penonomé": {
+            "local_code": "Coclé",
+            "has_children": "true",
+        },
+
+    }
+}

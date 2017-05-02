@@ -1,0 +1,75 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "parents": [
+        "PA",
+        "Chiriquí"
+],
+    "subdivisions": {
+        "Alanje": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Barú": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Boquerón": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Boquete": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Bugaba": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "David": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Dolega": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Gualaca": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Remedios": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Renacimiento": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "San Félix": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "San Lorenzo": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+        "Tolé": {
+            "local_code": "Chiriquí",
+            "has_children": "true",
+        },
+
+}
+}
