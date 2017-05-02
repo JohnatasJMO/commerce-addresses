@@ -1,0 +1,15 @@
+{
+  "name": "drupal/commerce-addresses",
+  "description": "Addresses for Courier TMS",
+  "type": "drupal-library",
+  "license": "Unlicense",
+  "authors": [
+    {
+      "name": "Johnatas Montezuma",
+      "email": "jmo@logisticsmaven.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {}
+}
