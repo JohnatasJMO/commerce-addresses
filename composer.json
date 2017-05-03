@@ -2,12 +2,6 @@
   "name": "johnatasJMO/commerce-addresses",
   "description": "Addresses for Courier TMS",
   "type": "drupal-library",
-  "version" : "dev"
+  "version" : "master",
   "license": "Unlicense",
-  "authors": [
-    {
-      "name": "Johnatas Montezuma",
-      "email": "jmo@logisticsmaven.com"
-    }
-  ]
 }
