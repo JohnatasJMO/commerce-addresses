@@ -2,6 +2,7 @@
   "name": "johnatasJMO/commerce-addresses",
   "description": "Addresses for Courier TMS",
   "type": "drupal-library",
+  "version" : "dev"
   "license": "Unlicense",
   "authors": [
     {
