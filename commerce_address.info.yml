@@ -1,0 +1,6 @@
+name: Commerce Addresses
+type: library
+description: 'Demo'
+package: Custom
+version: master
+core: 8.x
