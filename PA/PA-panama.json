@@ -8,33 +8,33 @@
     "subdivisions": {
         "Balboa": {
             "subdivisions": "Balboa",
-            "has_children": true,
+            "has_children": true
         },
 
         "Chepo": {
             "subdivisions": "Chepo",
-            "has_children": true,
+            "has_children": true
         },
 
         "Chimán": {
             "subdivisions": "Chimán",
-            "has_children": true,
+            "has_children": true
         },
 
         "Panamá": {
             "subdivisions": "Panamá",
-            "has_children": true,
+            "has_children": true
         },
 
         "San Miguelito": {
             "subdivisions": "San Miguelito",
-            "has_children": true,
+            "has_children": true
         },
 
         "Taboga": {
             "subdivisions": "Taboga",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

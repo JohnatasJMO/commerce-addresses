@@ -8,38 +8,38 @@
     "subdivisions": {
         "Chitré": {
             "subdivisions": "Chitré",
-            "has_children": true,
+            "has_children": true
         },
 
         "Las Minas": {
             "subdivisions": "Las Minas",
-            "has_children": true,
+            "has_children": true
         },
 
         "Los Pozos": {
             "subdivisions": "Los Pozos",
-            "has_children": true,
+            "has_children": true
         },
 
         "Ocú": {
             "subdivisions": "Ocú",
-            "has_children": true,
+            "has_children": true
         },
 
         "Parita": {
             "subdivisions": "Parita",
-            "has_children": true,
+            "has_children": true
         },
 
         "Pesé": {
             "subdivisions": "Pesé",
-            "has_children": true,
+            "has_children": true
         },
 
         "Santa María": {
             "subdivisions": "Santa María",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

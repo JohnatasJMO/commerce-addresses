@@ -8,13 +8,13 @@
     "subdivisions": {
         "Chepigana": {
             "subdivisions": "Chepigana",
-            "has_children": true,
+            "has_children": true
         },
 
         "Pinogana": {
             "subdivisions": "Pinogana",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

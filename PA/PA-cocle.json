@@ -8,33 +8,33 @@
     "subdivisions": {
         "Aguadulce": {
             "subdivisions": "Aguadulce",
-            "has_children": true,
+            "has_children": true
         },
 
         "Antón": {
             "subdivisions": "Antón",
-            "has_children": true,
+            "has_children": true
         },
 
         "La Pintada": {
             "subdivisions": "La Pintada",
-            "has_children": true,
+            "has_children": true
         },
 
         "Natá": {
             "subdivisions": "Natá",
-            "has_children": true,
+            "has_children": true
         },
 
         "Olá": {
             "subdivisions": "Olá",
-            "has_children": true,
+            "has_children": true
         },
 
         "Penonomé": {
             "subdivisions": "Penonomé",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

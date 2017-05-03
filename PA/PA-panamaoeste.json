@@ -8,28 +8,28 @@
     "subdivisions": {
         "Arraiján": {
             "subdivisions": "Arraiján",
-            "has_children": true,
+            "has_children": true
         },
 
         "Capira": {
             "subdivisions": "Capira",
-            "has_children": true,
+            "has_children": true
         },
 
         "Chame": {
             "subdivisions": "Chame",
-            "has_children": true,
+            "has_children": true
         },
 
         "La Chorrera": {
             "subdivisions": "La Chorrera",
-            "has_children": true,
+            "has_children": true
         },
 
         "San Carlos": {
             "subdivisions": "San Carlos",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

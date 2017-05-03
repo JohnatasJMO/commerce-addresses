@@ -8,68 +8,68 @@
     "subdivisions": {
         "Alanje": {
             "subdivisions": "Alanje",
-            "has_children": true,
+            "has_children": true
         },
 
         "Barú": {
             "subdivisions": "Barú",
-            "has_children": true,
+            "has_children": true
         },
 
         "Boquerón": {
             "subdivisions": "Boquerón",
-            "has_children": true,
+            "has_children": true
         },
 
         "Boquete": {
             "subdivisions": "Boquete",
-            "has_children": true,
+            "has_children": true
         },
 
         "Bugaba": {
             "subdivisions": "Bugaba",
-            "has_children": true,
+            "has_children": true
         },
 
         "David": {
             "subdivisions": "David",
-            "has_children": true,
+            "has_children": true
         },
 
         "Dolega": {
             "subdivisions": "Dolega",
-            "has_children": true,
+            "has_children": true
         },
 
         "Gualaca": {
             "subdivisions": "Gualaca",
-            "has_children": true,
+            "has_children": true
         },
 
         "Remedios": {
             "subdivisions": "Remedios",
-            "has_children": true,
+            "has_children": true
         },
 
         "Renacimiento": {
             "subdivisions": "Renacimiento",
-            "has_children": true,
+            "has_children": true
         },
 
         "San Félix": {
             "subdivisions": "San Félix",
-            "has_children": true,
+            "has_children": true
         },
 
         "San Lorenzo": {
             "subdivisions": "San Lorenzo",
-            "has_children": true,
+            "has_children": true
         },
 
         "Tolé": {
             "subdivisions": "Tolé",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

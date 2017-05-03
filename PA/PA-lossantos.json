@@ -8,38 +8,38 @@
     "subdivisions": {
         "Guararé": {
             "subdivisions": "Guararé",
-            "has_children": true,
+            "has_children": true
         },
 
         "Las Tablas": {
             "subdivisions": "Las Tablas",
-            "has_children": true,
+            "has_children": true
         },
 
         "Los Santos": {
             "subdivisions": "Los Santos",
-            "has_children": true,
+            "has_children": true
         },
 
         "Macaracas": {
             "subdivisions": "Macaracas",
-            "has_children": true,
+            "has_children": true
         },
 
         "Pedasí": {
             "subdivisions": "Pedasí",
-            "has_children": true,
+            "has_children": true
         },
 
         "Pocrí": {
             "subdivisions": "Pocrí",
-            "has_children": true,
+            "has_children": true
         },
 
         "Tonosí": {
             "subdivisions": "Tonosí",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

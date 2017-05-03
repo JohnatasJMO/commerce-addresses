@@ -8,28 +8,28 @@
     "subdivisions": {
         "Chagres": {
             "subdivisions": "Chagres",
-            "has_children": true,
+            "has_children": true
         },
 
         "Colón": {
             "subdivisions": "Colón",
-            "has_children": true,
+            "has_children": true
         },
 
         "Donoso": {
             "subdivisions": "Donoso",
-            "has_children": true,
+            "has_children": true
         },
 
         "Portobelo": {
             "subdivisions": "Portobelo",
-            "has_children": true,
+            "has_children": true
         },
 
         "Santa Isabel": {
             "subdivisions": "Santa Isabel",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }

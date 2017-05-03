@@ -8,63 +8,63 @@
     "subdivisions": {
         "Atalaya": {
             "subdivisions": "Atalaya",
-            "has_children": true,
+            "has_children": true
         },
 
         "Calobre": {
             "subdivisions": "Calobre",
-            "has_children": true,
+            "has_children": true
         },
 
         "Cañazas": {
             "subdivisions": "Cañazas",
-            "has_children": true,
+            "has_children": true
         },
 
         "La Mesa": {
             "subdivisions": "La Mesa",
-            "has_children": true,
+            "has_children": true
         },
 
         "Las Palmas": {
             "subdivisions": "Las Palmas",
-            "has_children": true,
+            "has_children": true
         },
 
         "Mariato": {
             "subdivisions": "Mariato",
-            "has_children": true,
+            "has_children": true
         },
 
         "Montijo": {
             "subdivisions": "Montijo",
-            "has_children": true,
+            "has_children": true
         },
 
         "Río de Jesús": {
             "subdivisions": "Río de Jesús",
-            "has_children": true,
+            "has_children": true
         },
 
         "San Francisco": {
             "subdivisions": "San Francisco",
-            "has_children": true,
+            "has_children": true
         },
 
         "Santa Fe": {
             "subdivisions": "Santa Fe",
-            "has_children": true,
+            "has_children": true
         },
 
         "Santiago": {
             "subdivisions": "Santiago",
-            "has_children": true,
+            "has_children": true
         },
 
         "Soná": {
             "subdivisions": "Soná",
-            "has_children": true,
-        },
+            "has_children": true
+        }
 
     }
 }
