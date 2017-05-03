@@ -1,0 +1,43 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM10",
+    "parents": [
+        "PA",
+        "Cañazas"
+],
+    "subdivisions": {
+        "Cerro de Plata": {
+            "local_code": "Cerro de Plata",
+            "has_children": "true"
+        },
+        "El Aromillo": {
+            "local_code": "El Aromillo",
+            "has_children": "true"
+        },
+        "El Picador": {
+            "local_code": "El Picador",
+            "has_children": "true"
+        },
+        "Las Cruces": {
+            "local_code": "Las Cruces",
+            "has_children": "true"
+        },
+        "Los Valles": {
+            "local_code": "Los Valles",
+            "has_children": "true"
+        },
+        "San Francisco Javier de Cañazas": {
+            "local_code": "San Francisco Javier de Cañazas",
+            "has_children": "true"
+        },
+        "San José": {
+            "local_code": "San José",
+            "has_children": "true"
+        },
+        "San Marcelo": {
+            "local_code": "San Marcelo",
+            "has_children": "true"
+        }
+    }
+}

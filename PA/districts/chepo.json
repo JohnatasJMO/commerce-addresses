@@ -1,0 +1,43 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM08",
+    "parents": [
+        "PA",
+        "Chepo"
+],
+    "subdivisions": {
+        "Cañita": {
+            "local_code": "Cañita",
+            "has_children": "true"
+        },
+        "Chepillo": {
+            "local_code": "Chepillo",
+            "has_children": "true"
+        },
+        "El Llano": {
+            "local_code": "El Llano",
+            "has_children": "true"
+        },
+        "Las Margaritas": {
+            "local_code": "Las Margaritas",
+            "has_children": "true"
+        },
+        "Madugandí": {
+            "local_code": "Madugandí",
+            "has_children": "true"
+        },
+        "San Cristóbal de Chepo": {
+            "local_code": "San Cristóbal de Chepo",
+            "has_children": "true"
+        },
+        "Santa Cruz de Chinina": {
+            "local_code": "Santa Cruz de Chinina",
+            "has_children": "true"
+        },
+        "Tortí": {
+            "local_code": "Tortí",
+            "has_children": "true"
+        }
+    }
+}

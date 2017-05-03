@@ -1,0 +1,31 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM08",
+    "parents": [
+        "PA",
+        "Chimán"
+],
+    "subdivisions": {
+        "Brujas": {
+            "local_code": "Brujas",
+            "has_children": "true"
+        },
+        "Chimán": {
+            "local_code": "Chimán",
+            "has_children": "true"
+        },
+        "Gonzalo Vásquez": {
+            "local_code": "Gonzalo Vásquez",
+            "has_children": "true"
+        },
+        "Pásiga": {
+            "local_code": "Pásiga",
+            "has_children": "true"
+        },
+        "Unión Santeña": {
+            "local_code": "Unión Santeña",
+            "has_children": "true"
+        }
+    }
+}

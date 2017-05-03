@@ -1,0 +1,43 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM13",
+    "parents": [
+        "PA",
+        "Arraiján"
+],
+    "subdivisions": {
+        "Arraiján": {
+            "local_code": "Arraiján",
+            "has_children": "true"
+        },
+        "Burunga": {
+            "local_code": "Burunga",
+            "has_children": "true"
+        },
+        "Cerro Silvestre": {
+            "local_code": "Cerro Silvestre",
+            "has_children": "true"
+        },
+        "Juan Demóstenes Arosemena": {
+            "local_code": "Juan Demóstenes Arosemena",
+            "has_children": "true"
+        },
+        "Nuevo Emperador": {
+            "local_code": "Nuevo Emperador",
+            "has_children": "true"
+        },
+        "Santa Clara": {
+            "local_code": "Santa Clara",
+            "has_children": "true"
+        },
+        "Veracruz": {
+            "local_code": "Veracruz",
+            "has_children": "true"
+        },
+        "Vista Alegre": {
+            "local_code": "Vista Alegre",
+            "has_children": "true"
+        }
+    }
+}

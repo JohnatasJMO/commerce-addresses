@@ -1,0 +1,31 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM02",
+    "parents": [
+        "PA",
+        "Barú"
+],
+    "subdivisions": {
+        "Baco": {
+            "local_code": "Baco",
+            "has_children": "true"
+        },
+        "Limones": {
+            "local_code": "Limones",
+            "has_children": "true"
+        },
+        "Progreso": {
+            "local_code": "Progreso",
+            "has_children": "true"
+        },
+        "Puerto Tomás Armuelles": {
+            "local_code": "Puerto Tomás Armuelles",
+            "has_children": "true"
+        },
+        "Rodolfo Aguilar Delgado": {
+            "local_code": "Rodolfo Aguilar Delgado",
+            "has_children": "true"
+        }
+    }
+}

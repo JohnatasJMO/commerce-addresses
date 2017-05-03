@@ -1,0 +1,63 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM01",
+    "parents": [
+        "PA",
+        "Changuinola"
+],
+    "subdivisions": {
+        "Barriada 4 de Abril": {
+            "local_code": "Barriada 4 de Abril",
+            "has_children": "true"
+        },
+        "Changuinola": {
+            "local_code": "Changuinola",
+            "has_children": "true"
+        },
+        "Cochigro": {
+            "local_code": "Cochigro",
+            "has_children": "true"
+        },
+        "El Empalme": {
+            "local_code": "El Empalme",
+            "has_children": "true"
+        },
+        "El Silencio": {
+            "local_code": "El Silencio",
+            "has_children": "true"
+        },
+        "El Teribe": {
+            "local_code": "El Teribe",
+            "has_children": "true"
+        },
+        "Finca 30": {
+            "local_code": "Finca 30",
+            "has_children": "true"
+        },
+        "Finca 6": {
+            "local_code": "Finca 6",
+            "has_children": "true"
+        },
+        "Finca 60": {
+            "local_code": "Finca 60",
+            "has_children": "true"
+        },
+        "Guabito": {
+            "local_code": "Guabito",
+            "has_children": "true"
+        },
+        "La Gloria": {
+            "local_code": "La Gloria",
+            "has_children": "true"
+        },
+        "Las Delicias": {
+            "local_code": "Las Delicias",
+            "has_children": "true"
+        },
+        "Las Tablas": {
+            "local_code": "Las Tablas",
+            "has_children": "true"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM01",
+    "parents": [
+        "PA",
+        "Chiriquí Grande"
+],
+    "subdivisions": {
+        "Bajo Cedro": {
+            "local_code": "Bajo Cedro",
+            "has_children": "true"
+        },
+        "Chiriquí Grande": {
+            "local_code": "Chiriquí Grande",
+            "has_children": "true"
+        },
+        "Miramar": {
+            "local_code": "Miramar",
+            "has_children": "true"
+        },
+        "Punta Peña": {
+            "local_code": "Punta Peña",
+            "has_children": "true"
+        },
+        "Punta Robalo": {
+            "local_code": "Punta Robalo",
+            "has_children": "true"
+        },
+        "Rambala": {
+            "local_code": "Rambala",
+            "has_children": "true"
+        }
+    }
+}

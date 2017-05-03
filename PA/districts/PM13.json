@@ -1,0 +1,63 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM13",
+    "parents": [
+        "PA",
+        "Capira"
+],
+    "subdivisions": {
+        "Caimito": {
+            "local_code": "Caimito",
+            "has_children": "true"
+        },
+        "Campana": {
+            "local_code": "Campana",
+            "has_children": "true"
+        },
+        "Capira": {
+            "local_code": "Capira",
+            "has_children": "true"
+        },
+        "Cermeño": {
+            "local_code": "Cermeño",
+            "has_children": "true"
+        },
+        "Cirí de Los Sotos": {
+            "local_code": "Cirí de Los Sotos",
+            "has_children": "true"
+        },
+        "Cirí Grande": {
+            "local_code": "Cirí Grande",
+            "has_children": "true"
+        },
+        "El Cacao": {
+            "local_code": "El Cacao",
+            "has_children": "true"
+        },
+        "La Trinidad": {
+            "local_code": "La Trinidad",
+            "has_children": "true"
+        },
+        "Las Ollas Arriba": {
+            "local_code": "Las Ollas Arriba",
+            "has_children": "true"
+        },
+        "Lídice": {
+            "local_code": "Lídice",
+            "has_children": "true"
+        },
+        "Santa Rosa": {
+            "local_code": "Santa Rosa",
+            "has_children": "true"
+        },
+        "Villa Carmen": {
+            "local_code": "Villa Carmen",
+            "has_children": "true"
+        },
+        "Villa Rosario": {
+            "local_code": "Villa Rosario",
+            "has_children": "true"
+        }
+    }
+}

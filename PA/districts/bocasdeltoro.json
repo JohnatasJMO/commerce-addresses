@@ -1,0 +1,31 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM01",
+    "parents": [
+        "PA",
+        "Bocas del Toro"
+],
+    "subdivisions": {
+        "Bastimentos": {
+            "local_code": "Bastimentos",
+            "has_children": "true"
+        },
+        "Bocas del Toro": {
+            "local_code": "Bocas del Toro",
+            "has_children": "true"
+        },
+        "Cauchero": {
+            "local_code": "Cauchero",
+            "has_children": "true"
+        },
+        "Punta Laurel": {
+            "local_code": "Punta Laurel",
+            "has_children": "true"
+        },
+        "Tierra Oscura": {
+            "local_code": "Tierra Oscura",
+            "has_children": "true"
+        }
+    }
+}

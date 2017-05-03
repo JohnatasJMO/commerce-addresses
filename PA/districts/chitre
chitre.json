@@ -1,0 +1,31 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM06",
+    "parents": [
+        "PA",
+        "Chitré"
+],
+    "subdivisions": {
+        "Chitré": {
+            "local_code": "Chitré",
+            "has_children": "true"
+        },
+        "La Arena": {
+            "local_code": "La Arena",
+            "has_children": "true"
+        },
+        "Llano Bonito": {
+            "local_code": "Llano Bonito",
+            "has_children": "true"
+        },
+        "San Juan Bautista.": {
+            "local_code": "San Juan Bautista.",
+            "has_children": "true"
+        },
+        "San Miguel de Monagrillo": {
+            "local_code": "San Miguel de Monagrillo",
+            "has_children": "true"
+        }
+    }
+}

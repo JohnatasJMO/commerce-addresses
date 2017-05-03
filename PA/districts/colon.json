@@ -1,0 +1,67 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM04",
+    "parents": [
+        "PA",
+        "Colón"
+],
+    "subdivisions": {
+        "Barrio Norte": {
+            "local_code": "Barrio Norte",
+            "has_children": "true"
+        },
+        "Barrio Sur": {
+            "local_code": "Barrio Sur",
+            "has_children": "true"
+        },
+        "Buena Vista": {
+            "local_code": "Buena Vista",
+            "has_children": "true"
+        },
+        "Cativá": {
+            "local_code": "Cativá",
+            "has_children": "true"
+        },
+        "Ciricito": {
+            "local_code": "Ciricito",
+            "has_children": "true"
+        },
+        "Cristóbal": {
+            "local_code": "Cristóbal",
+            "has_children": "true"
+        },
+        "Escobal": {
+            "local_code": "Escobal",
+            "has_children": "true"
+        },
+        "Limón": {
+            "local_code": "Limón",
+            "has_children": "true"
+        },
+        "Nueva Providencia": {
+            "local_code": "Nueva Providencia",
+            "has_children": "true"
+        },
+        "Puerto Pilón": {
+            "local_code": "Puerto Pilón",
+            "has_children": "true"
+        },
+        "Sabanitas": {
+            "local_code": "Sabanitas",
+            "has_children": "true"
+        },
+        "Salamanca": {
+            "local_code": "Salamanca",
+            "has_children": "true"
+        },
+        "San Juan": {
+            "local_code": "San Juan",
+            "has_children": "true"
+        },
+        "Santa Rosa": {
+            "local_code": "Santa Rosa",
+            "has_children": "true"
+        }
+    }
+}

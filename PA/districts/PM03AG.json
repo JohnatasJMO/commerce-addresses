@@ -1,0 +1,31 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM03AG",
+    "parents": [
+        "PA",
+        "Aguadulce"
+],
+    "subdivisions": {
+        "Barrios Unidos": {
+            "local_code": "Barrios Unidos",
+            "has_children": "true"
+        },
+        "El Cristo": {
+            "local_code": "El Cristo",
+            "has_children": "true"
+        },
+        "El Roble Total": {
+            "local_code": "El Roble Total",
+            "has_children": ""
+        },
+        "Pocrí": {
+            "local_code": "Pocrí",
+            "has_children": "true"
+        },
+        "San Juan Bautista de Aguadulce": {
+            "local_code": "San Juan Bautista de Aguadulce",
+            "has_children": "true"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM02",
+    "parents": [
+        "PA",
+        "Boquete"
+],
+    "subdivisions": {
+        "Alto Boquete": {
+            "local_code": "Alto Boquete",
+            "has_children": "true"
+        },
+        "Bajo Boquete": {
+            "local_code": "Bajo Boquete",
+            "has_children": "true"
+        },
+        "Caldera": {
+            "local_code": "Caldera",
+            "has_children": "true"
+        },
+        "Jaramillo": {
+            "local_code": "Jaramillo",
+            "has_children": "true"
+        },
+        "Los Naranjos": {
+            "local_code": "Los Naranjos",
+            "has_children": "true"
+        },
+        "Palmira": {
+            "local_code": "Palmira",
+            "has_children": "true"
+        }
+    }
+}

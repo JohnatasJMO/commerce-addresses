@@ -1,0 +1,75 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM05",
+    "parents": [
+        "PA",
+        "Chepigana"
+],
+    "subdivisions": {
+        "Agua Fría": {
+            "local_code": "Agua Fría",
+            "has_children": "true"
+        },
+        "Camogantí": {
+            "local_code": "Camogantí",
+            "has_children": "true"
+        },
+        "Chepigana": {
+            "local_code": "Chepigana",
+            "has_children": "true"
+        },
+        "Cucunatí": {
+            "local_code": "Cucunatí",
+            "has_children": "true"
+        },
+        "Garachiné": {
+            "local_code": "Garachiné",
+            "has_children": "true"
+        },
+        "Jaqué": {
+            "local_code": "Jaqué",
+            "has_children": "true"
+        },
+        "La Palma": {
+            "local_code": "La Palma",
+            "has_children": "true"
+        },
+        "Puerto Piña": {
+            "local_code": "Puerto Piña",
+            "has_children": "true"
+        },
+        "Río Congo": {
+            "local_code": "Río Congo",
+            "has_children": "true"
+        },
+        "Río Congo Arriba": {
+            "local_code": "Río Congo Arriba",
+            "has_children": "true"
+        },
+        "Río Iglesias": {
+            "local_code": "Río Iglesias",
+            "has_children": "true"
+        },
+        "Sambú": {
+            "local_code": "Sambú",
+            "has_children": "true"
+        },
+        "Santa Fe": {
+            "local_code": "Santa Fe",
+            "has_children": "true"
+        },
+        "Setegantí": {
+            "local_code": "Setegantí",
+            "has_children": "true"
+        },
+        "Taimatí": {
+            "local_code": "Taimatí",
+            "has_children": "true"
+        },
+        "Tucutí": {
+            "local_code": "Tucutí",
+            "has_children": "true"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM08",
+    "parents": [
+        "PA",
+        "Balboa"
+],
+    "subdivisions": {
+        "La Ensenada": {
+            "local_code": "La Ensenada",
+            "has_children": "true"
+        },
+        "La Esmeralda": {
+            "local_code": "La Esmeralda",
+            "has_children": "true"
+        },
+        "La Guinea": {
+            "local_code": "La Guinea",
+            "has_children": "true"
+        },
+        "Pedro González": {
+            "local_code": "Pedro González",
+            "has_children": "true"
+        },
+        "Saboga": {
+            "local_code": "Saboga",
+            "has_children": "true"
+        },
+        "San Miguel": {
+            "local_code": "San Miguel",
+            "has_children": "true"
+        }
+    }
+}

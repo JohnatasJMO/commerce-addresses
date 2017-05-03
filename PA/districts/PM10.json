@@ -1,0 +1,59 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM10",
+    "parents": [
+        "PA",
+        "Calobre"
+],
+    "subdivisions": {
+        "Barnizal": {
+            "local_code": "Barnizal",
+            "has_children": "true"
+        },
+        "Calobre": {
+            "local_code": "Calobre",
+            "has_children": "true"
+        },
+        "Chitra": {
+            "local_code": "Chitra",
+            "has_children": "true"
+        },
+        "El Cocla": {
+            "local_code": "El Cocla",
+            "has_children": "true"
+        },
+        "El Potrero": {
+            "local_code": "El Potrero",
+            "has_children": "true"
+        },
+        "La Laguna": {
+            "local_code": "La Laguna",
+            "has_children": "true"
+        },
+        "La Raya de Calobre": {
+            "local_code": "La Raya de Calobre",
+            "has_children": "true"
+        },
+        "La Tetilla": {
+            "local_code": "La Tetilla",
+            "has_children": "true"
+        },
+        "La Yeguada": {
+            "local_code": "La Yeguada",
+            "has_children": "true"
+        },
+        "Las Guías": {
+            "local_code": "Las Guías",
+            "has_children": "true"
+        },
+        "Monjarás": {
+            "local_code": "Monjarás",
+            "has_children": "true"
+        },
+        "San José": {
+            "local_code": "San José",
+            "has_children": "true"
+        }
+    }
+}

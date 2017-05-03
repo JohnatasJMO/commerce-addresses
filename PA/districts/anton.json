@@ -1,0 +1,51 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM03",
+    "parents": [
+        "PA",
+        "Antón"
+],
+    "subdivisions": {
+        "Antón": {
+            "local_code": "Antón",
+            "has_children": "true"
+        },
+        "Caballero": {
+            "local_code": "Caballero",
+            "has_children": "true"
+        },
+        "Cabuya": {
+            "local_code": "Cabuya",
+            "has_children": "true"
+        },
+        "El Chirú": {
+            "local_code": "El Chirú",
+            "has_children": "true"
+        },
+        "El Retiro": {
+            "local_code": "El Retiro",
+            "has_children": "true"
+        },
+        "El Valle": {
+            "local_code": "El Valle",
+            "has_children": "true"
+        },
+        "Juan Díaz": {
+            "local_code": "Juan Díaz",
+            "has_children": "true"
+        },
+        "Río Hato": {
+            "local_code": "Río Hato",
+            "has_children": "true"
+        },
+        "San Juan de Dios": {
+            "local_code": "San Juan de Dios",
+            "has_children": "true"
+        },
+        "Santa Rita": {
+            "local_code": "Santa Rita",
+            "has_children": "true"
+        }
+    }
+}

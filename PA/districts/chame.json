@@ -1,0 +1,55 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM13",
+    "parents": [
+        "PA",
+        "Chame"
+],
+    "subdivisions": {
+        "Bejuco": {
+            "local_code": "Bejuco",
+            "has_children": "true"
+        },
+        "Buenos Aires": {
+            "local_code": "Buenos Aires",
+            "has_children": "true"
+        },
+        "Cabuya": {
+            "local_code": "Cabuya",
+            "has_children": "true"
+        },
+        "Chame": {
+            "local_code": "Chame",
+            "has_children": "true"
+        },
+        "Chicá": {
+            "local_code": "Chicá",
+            "has_children": "true"
+        },
+        "El Líbano": {
+            "local_code": "El Líbano",
+            "has_children": "true"
+        },
+        "Las Lajas": {
+            "local_code": "Las Lajas",
+            "has_children": "true"
+        },
+        "Nueva Gorgona": {
+            "local_code": "Nueva Gorgona",
+            "has_children": "true"
+        },
+        "Punta Chame": {
+            "local_code": "Punta Chame",
+            "has_children": "true"
+        },
+        "Sajalices": {
+            "local_code": "Sajalices",
+            "has_children": "true"
+        },
+        "Sorá": {
+            "local_code": "Sorá",
+            "has_children": "true"
+        }
+    }
+}

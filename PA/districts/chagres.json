@@ -1,0 +1,39 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM04",
+    "parents": [
+        "PA",
+        "Chagres"
+],
+    "subdivisions": {
+        "Achiote": {
+            "local_code": "Achiote",
+            "has_children": "true"
+        },
+        "El Guabo": {
+            "local_code": "El Guabo",
+            "has_children": "true"
+        },
+        "La Encantada": {
+            "local_code": "La Encantada",
+            "has_children": "true"
+        },
+        "Nuevo Chagres": {
+            "local_code": "Nuevo Chagres",
+            "has_children": "true"
+        },
+        "Palmas Bellas": {
+            "local_code": "Palmas Bellas",
+            "has_children": "true"
+        },
+        "Piña": {
+            "local_code": "Piña",
+            "has_children": "true"
+        },
+        "Salud": {
+            "local_code": "Salud",
+            "has_children": "true"
+        }
+    }
+}

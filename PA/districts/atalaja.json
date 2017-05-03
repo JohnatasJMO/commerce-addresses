@@ -1,0 +1,31 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM10",
+    "parents": [
+        "PA",
+        "Atalaya"
+],
+    "subdivisions": {
+        "El Barrito": {
+            "local_code": "El Barrito",
+            "has_children": "true"
+        },
+        "Jesús Nazareno de Atalaya": {
+            "local_code": "Jesús Nazareno de Atalaya",
+            "has_children": "true"
+        },
+        "La Carrillo": {
+            "local_code": "La Carrillo",
+            "has_children": "true"
+        },
+        "La Montañuela": {
+            "local_code": "La Montañuela",
+            "has_children": "true"
+        },
+        "San Antonio": {
+            "local_code": "San Antonio",
+            "has_children": "true"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM02",
+    "parents": [
+        "PA",
+        "Boquerón"
+],
+    "subdivisions": {
+        "Bágala": {
+            "local_code": "Bágala",
+            "has_children": "true"
+        },
+        "Boquerón": {
+            "local_code": "Boquerón",
+            "has_children": "true"
+        },
+        "Cordillera": {
+            "local_code": "Cordillera",
+            "has_children": "true"
+        },
+        "Guabal": {
+            "local_code": "Guabal",
+            "has_children": "true"
+        },
+        "Guayabal": {
+            "local_code": "Guayabal",
+            "has_children": "true"
+        },
+        "Paraíso": {
+            "local_code": "Paraíso",
+            "has_children": "true"
+        },
+        "Pedregal": {
+            "local_code": "Pedregal",
+            "has_children": "true"
+        },
+        "Tijeras": {
+            "local_code": "Tijeras",
+            "has_children": "true"
+        }
+    }
+}

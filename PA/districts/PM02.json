@@ -1,0 +1,63 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM02",
+    "parents": [
+        "PA",
+        "Bugaba"
+],
+    "subdivisions": {
+        "Aserrío de Gariché": {
+            "local_code": "Aserrío de Gariché",
+            "has_children": "true"
+        },
+        "Bugaba": {
+            "local_code": "Bugaba",
+            "has_children": "true"
+        },
+        "Cerro Punta": {
+            "local_code": "Cerro Punta",
+            "has_children": "true"
+        },
+        "El Bongo": {
+            "local_code": "El Bongo",
+            "has_children": "true"
+        },
+        "Gómez": {
+            "local_code": "Gómez",
+            "has_children": "true"
+        },
+        "La Concepción": {
+            "local_code": "La Concepción",
+            "has_children": "true"
+        },
+        "La Estrella": {
+            "local_code": "La Estrella",
+            "has_children": "true"
+        },
+        "San Andrés": {
+            "local_code": "San Andrés",
+            "has_children": "true"
+        },
+        "Santa Marta": {
+            "local_code": "Santa Marta",
+            "has_children": "true"
+        },
+        "Santa Rosa": {
+            "local_code": "Santa Rosa",
+            "has_children": "true"
+        },
+        "Santo Domingo": {
+            "local_code": "Santo Domingo",
+            "has_children": "true"
+        },
+        "Sortová": {
+            "local_code": "Sortová",
+            "has_children": "true"
+        },
+        "Volcán": {
+            "local_code": "Volcán",
+            "has_children": "true"
+        }
+    }
+}

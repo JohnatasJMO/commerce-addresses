@@ -1,0 +1,35 @@
+{
+    "country_code": "PA",
+    "locale": "es",
+    "dependent_locality": "PM01",
+    "parents": [
+        "PA",
+        "Almirante"
+],
+    "subdivisions": {
+        "Barriada Guaymí": {
+            "local_code": "Barriada Guaymí",
+            "has_children": "true"
+        },
+        "Barrio Francés": {
+            "local_code": "Barrio Francés",
+            "has_children": "true"
+        },
+        "Nance de Riscó": {
+            "local_code": "Nance de Riscó",
+            "has_children": "true"
+        },
+        "Puerto Almirante": {
+            "local_code": "Puerto Almirante",
+            "has_children": "true"
+        },
+        "Valle de Aguas Arriba": {
+            "local_code": "Valle de Aguas Arriba",
+            "has_children": "true"
+        },
+        "Valle de Riscó": {
+            "local_code": "Valle de Riscó",
+            "has_children": "true"
+        }
+    }
+}
