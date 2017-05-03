@@ -9,7 +9,6 @@
       "email": "jmo@logisticsmaven.com"
     }
   ],
-  "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {}
 }
