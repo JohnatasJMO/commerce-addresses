@@ -1,7 +1,15 @@
 {
   "name": "johnatasJMO/commerce-addresses",
-  "description": "Addresses for Courier TMS",
+  "description": "Addresses for Drupal Commerce",
   "type": "drupal-library",
-  "version" : "master",
-  "license": "Unlicense",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Johnatas M",
+      "email": "jmo@logisticsmaven.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {}
 }
